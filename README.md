@@ -81,7 +81,7 @@ SistemRegistrasiPasien/
 From the repository root:
 
 ```bash
-g++ src/main.cpp -o patient-registration
+g++ src/main.cpp -o SistemRegistrasiPasien
 ```
 
 ### Run
@@ -89,13 +89,13 @@ g++ src/main.cpp -o patient-registration
 **Windows**
 
 ```bash
-patient-registration.exe
+SistemRegistrasiPasien.exe
 ```
 
 **Linux / macOS**
 
 ```bash
-./patient-registration
+./SistemRegistrasiPasien
 ```
 
 ## What I Learned
